@@ -5,3 +5,19 @@
 ![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/39c8efbd-3ac4-46ba-a828-225f3956d1df)
 ![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/df99ec3e-12e6-4207-b5a9-f572dea61440)
 
+Crie uma view que mostra todos os produtos e suas respectivas marcas;
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/40c119f1-81e6-4ad4-975b-24b006aa02f1)
+
+Crie uma view que mostra todos os produtos e seus respectivos fornecedores;
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/60b04ac8-453c-49bc-a6df-f312526ca29f)
+
+Crie uma view que mostra todos os produtos e seus respectivos fornecedores e marcas;
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/7b6f6d34-4601-4023-945e-86a85e5d8edc)
+
+Crie uma view que mostra todos os produtos com estoque abaixo do mínimo;
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/be109385-4162-4cca-b360-3f09b255085d)
+
+
+
+
+
