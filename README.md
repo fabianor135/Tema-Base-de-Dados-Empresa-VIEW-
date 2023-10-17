@@ -17,6 +17,21 @@ Crie uma view que mostra todos os produtos e seus respectivos fornecedores e mar
 Crie uma view que mostra todos os produtos com estoque abaixo do mínimo;
 ![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/be109385-4162-4cca-b360-3f09b255085d)
 
+Adicione o campo data de validade. Insira novos produtos com essa informação:
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/41e1654b-4257-43d2-9dd1-53879fb52a8c)
+
+Crie uma view que mostra todos os produtos e suas respectivas marcas com validade vencida;
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/56d16b7e-abdd-4ddb-ba96-cfc32a7365de)
+
+Selecionar os produtos com preço acima da média.
+![image](https://github.com/fabianor135/Tema-Base-de-Dados-Empresa-VIEW-/assets/84815028/c3579983-6370-427f-8cb0-f75fec40c619)
+
+
+
+
+
+
+
 
 
 
